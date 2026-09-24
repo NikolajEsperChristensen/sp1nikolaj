@@ -33,8 +33,7 @@ public class Main {
 
         cola.printCharacterSheet();
 
-        // Samme forløb gentages for pepsi (kunne evt. laves som en hjælpemetode
-        // for at undgå at skrive den samme kode to gange
+
         pepsi.addXP(500);
         pepsi.takeDamage(50);
         pepsi.addGold(150.0);
